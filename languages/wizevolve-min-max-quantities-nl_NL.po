@@ -1,0 +1,346 @@
+# Copyright (C) 2023 WizEvolve
+# This file is distributed under the same license as the WizEvolve Min Max Quantities plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WizEvolve Min Max Quantities 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wizevolve-min-max-"
+"quantities\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-08T00:39:51+02:00\n"
+"PO-Revision-Date: 2024-01-30 21:21+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wizevolve-min-max-quantities\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#. translators: 1: Plugin name. 2: Minimum PHP version.
+#: includes/util/class-wizevolve-loader.php:73
+msgid "%1$s requires PHP version %2$s or newer."
+msgstr "%1$s vereist PHP-versie %2$s of nieuwer."
+
+#. translators: 1: Plugin name.
+#: includes/util/class-wizevolve-loader.php:95
+msgid "%1$s requires the WooCommerce plugin to be installed and active."
+msgstr "Voor %1$s moet de WooCommerce plug-in geïnstalleerd en actief zijn."
+
+#. translators: 1: Plugin name. 2: Minimum WooCommerce version.
+#: includes/util/class-wizevolve-loader.php:105
+msgid "%1$s requires WooCommerce version %2$s or newer."
+msgstr "%1$s vereist WooCommerce versie %2$s of nieuwer."
+
+#. translators: 1: Plugin name. 2: Minimum WordPress version.
+#: includes/util/class-wizevolve-loader.php:84
+msgid "%1$s requires WordPress version %2$s or newer."
+msgstr "%1$s vereist WordPress versie %2$s of nieuwer."
+
+#: includes/util/class-wizevolve-options.php:109
+msgid "Account"
+msgstr "Account"
+
+#: includes/util/class-wizevolve-options.php:109
+msgid "Activate"
+msgstr "Activeren"
+
+#: includes/class-wizevolve-min-max-quantities.php:50
+msgid "Apply rules"
+msgstr "Regels toepassen"
+
+#: includes/class-wizevolve-min-max-quantities.php:50
+msgid "Apply rules to quantity selector"
+msgstr "Pas regels toe op hoeveelheidkiezer"
+
+#: includes/class-wizevolve-min-max-quantities.php:41
+msgid "Cart Content"
+msgstr "Inhoud winkelwagen"
+
+#: includes/class-wizevolve-min-max-quantities.php:51
+msgid ""
+"Change the upper bound of the quantity selector based on the maximum "
+"available stock for the product. <br /><strong>Note</strong>: only works if "
+"\"Apply rules to quantity selector\" is on and backorders are not allowed on "
+"the product."
+msgstr ""
+"Wijzig de bovengrens van de hoeveelheidkiezer op basis van de maximaal "
+"beschikbare voorraad voor het product. <br /><strong>Opmerking</strong>: "
+"werkt alleen als \"Pas regels toep op hoeveelheidkiezer\" is ingeschakeld en "
+"nabestellingen niet zijn toegestaan voor het product."
+
+#: includes/class-wizevolve-min-max-quantities.php:50
+msgid ""
+"Choose weather or not the user should be able to enter quantities which will "
+"not be able to be purchased."
+msgstr ""
+"Kies weer of niet, de gebruiker moet hoeveelheden kunnen invoeren die niet "
+"kunnen worden gekocht."
+
+#: includes/class-wizevolve-min-max-quantities.php:41
+msgid ""
+"Devine a minimum or maximum number of product a user should have in his cart "
+"before he can go to the checkout."
+msgstr ""
+"Bepaal een minimaal of maximaal aantal producten dat een gebruiker in zijn "
+"winkelwagen moet hebben voordat hij naar de kassa kan gaan."
+
+#: includes/class-wizevolve-min-max-quantities.php:37
+msgid ""
+"Devine a minimum or maximum number of product which will be used for every "
+"product. The product specific rules will overwrite these settings."
+msgstr ""
+"Bepaal een minimaal of maximaal aantal producten dat voor elk product wordt "
+"gebruikt. De productspecifieke regels zullen deze instellingen overschrijven."
+
+#: includes/class-wizevolve-min-max-quantities.php:330
+msgid "Enter the maximum quantity for this product."
+msgstr "Vul het maximale aantal in voor dit product."
+
+#: includes/class-wizevolve-min-max-quantities.php:317
+msgid "Enter the minimum quantity for this product."
+msgstr "Vul de minimale hoeveelheid in voor dit product."
+
+#: includes/class-wizevolve-min-max-quantities.php:39
+msgid "Global maximum quantity"
+msgstr "Globale maximale hoeveelheid"
+
+#: includes/class-wizevolve-min-max-quantities.php:38
+msgid "Global minimum quantity"
+msgstr "Globale minimale hoeveelheid"
+
+#: includes/class-wizevolve-min-max-quantities.php:37
+msgid "Global Settings"
+msgstr "Algemene instellingen"
+
+#: includes/class-wizevolve-min-max-quantities.php:47
+msgid "Hide notifications"
+msgstr "Verberg meldingen"
+
+#. Author URI of the plugin
+msgid "https://www.wizevolve.com/"
+msgstr "https://www.wizevolve.com/"
+
+#: includes/class-wizevolve-min-max-quantities.php:51
+msgid "Ignore stock"
+msgstr "Negeer voorraad"
+
+#: includes/class-wizevolve-min-max-quantities.php:51
+msgid "Limit based on stock"
+msgstr "Limiet op basis van voorraad"
+
+#: includes/class-wizevolve-min-max-quantities.php:49
+msgid ""
+"Manage how the quantity selectors will behave on the product detail pages "
+"and the cart page."
+msgstr ""
+"Beheer hoe de hoeveelheidkiezers zich gedragen op de productdetailpagina's "
+"en de winkelwagenpagina."
+
+#: includes/class-wizevolve-min-max-quantities.php:46
+msgid "Manage what actions will cause notifications to the users."
+msgstr "Beheer welke acties meldingen aan de gebruikers zullen veroorzaken."
+
+#: includes/class-wizevolve-min-max-quantities.php:51
+msgid "Max quantity selector based on stock"
+msgstr "Selectie maximale hoeveelheid op basis van voorraad"
+
+#: includes/class-wizevolve-min-max-quantities.php:43
+msgid "Maximum cart quantity"
+msgstr "Maximale hoeveelheid winkelwagen"
+
+#: includes/class-wizevolve-min-max-quantities.php:327
+#: includes/class-wizevolve-min-max-quantities.php:369
+msgid "Maximum Quantity"
+msgstr "Maximale hoeveelheid"
+
+#: includes/class-wizevolve-min-max-quantities.php:34
+msgid "Min-Max Quantities"
+msgstr "Min-Max Hoeveelheden"
+
+#: includes/class-wizevolve-min-max-quantities.php:42
+msgid "Minimum cart quantity"
+msgstr "Minimale hoeveelheid winkelwagen"
+
+#: includes/class-wizevolve-min-max-quantities.php:314
+#: includes/class-wizevolve-min-max-quantities.php:363
+msgid "Minimum Quantity"
+msgstr "Minimale hoeveelheid"
+
+#: includes/class-wizevolve-min-max-quantities.php:144
+msgid ""
+"Note: The minimum quantity for \"%s\" will cause the product to be in "
+"backorder."
+msgstr ""
+"Let op: De minimumhoeveelheid voor \"%s\" zorgt ervoor dat het product in "
+"nabestelling komt."
+
+#: includes/class-wizevolve-min-max-quantities.php:121
+msgid "Note: The minimum quantity will cause the product to be in backorder."
+msgstr ""
+"Let op: De minimale hoeveelheid zorgt ervoor dat het product in nabestelling "
+"komt."
+
+#: includes/class-wizevolve-min-max-quantities.php:46
+msgid "Notification settings"
+msgstr "Notificatie instellingen"
+
+#: includes/util/class-wizevolve-options.php:178
+#: includes/util/class-wizevolve-options.php:187
+msgid "Premium Feature"
+msgstr "Premium Functie"
+
+#: includes/class-wizevolve-min-max-quantities.php:49
+msgid "Quantity selector setting"
+msgstr "Instelling hoeveelheidskiezer"
+
+#: includes/class-wizevolve-min-max-quantities.php:38
+#: includes/class-wizevolve-min-max-quantities.php:39
+msgid "Set a global minimum quantity every product should have."
+msgstr ""
+"Stel een globale minimale hoeveelheid in die elk product zou moeten hebben."
+
+#: includes/class-wizevolve-min-max-quantities.php:32
+msgid ""
+"Set minimum and maximum order quantities for your WooCommerce store products."
+msgstr ""
+"Stel minimale en maximale bestelhoeveelheden in voor uw WooCommerce-"
+"winkelproducten."
+
+#. Description of the plugin
+msgid "Set the minimum and maximum allowed quantities of a product"
+msgstr ""
+"Stel de minimaal en maximaal toegestane hoeveelheden van een product in"
+
+#: includes/util/class-wizevolve-options.php:104
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-wizevolve-min-max-quantities.php:47
+msgid "Show notifications"
+msgstr "Toon meldingen"
+
+#: includes/class-wizevolve-min-max-quantities.php:47
+msgid "Stock notification"
+msgstr "Voorraad melding"
+
+#: includes/class-wizevolve-min-max-quantities.php:179
+msgid "The maximum allowed quantity for \"%s\" is %s. Please adjust your cart."
+msgstr ""
+"De maximaal toegestane hoeveelheid voor \"%s\" is %s. Pas uw winkelwagen aan."
+
+#: includes/class-wizevolve-min-max-quantities.php:175
+msgid "The minimum allowed quantity for \"%s\" is %s. Please adjust your cart."
+msgstr ""
+"De minimaal toegestane hoeveelheid voor \"%s\" is %s. Pas uw winkelwagen aan."
+
+#: includes/class-wizevolve-min-max-quantities.php:50
+msgid "Unlock quantity selector"
+msgstr "Ontgrendel de hoeveelheidkiezer"
+
+#: includes/util/class-wizevolve-options.php:113
+#: includes/util/class-wizevolve-options.php:178
+#: includes/util/class-wizevolve-options.php:187
+msgid "Upgrade Now!"
+msgstr "Upgrade Nu!"
+
+#: includes/class-wizevolve-min-max-quantities.php:43
+msgid ""
+"Use this to set a maximum amount of products the cart can contain to allow "
+"checkout"
+msgstr ""
+"Gebruik dit om een maximum aantal producten in te stellen dat de winkelwagen "
+"kan bevatten om afrekenen mogelijk te maken"
+
+#: includes/class-wizevolve-min-max-quantities.php:42
+msgid ""
+"Use this to set a minimum amount of products the cart should contain to "
+"allow checkout"
+msgstr ""
+"Gebruik dit om een minimum aantal producten in te stellen dat de winkelwagen "
+"moet bevatten om af te rekenen"
+
+#: includes/class-wizevolve-min-max-quantities.php:47
+msgid ""
+"Use this to show the user a message when the minimum order amount will "
+"exceed the current stock of the product."
+msgstr ""
+"Gebruik dit om de gebruiker een bericht te laten zien wanneer het minimale "
+"bestelbedrag de huidige voorraad van het product zal overschrijden."
+
+#: includes/class-wizevolve-min-max-quantities.php:123
+msgid "Warning: The minimum quantity exceeds the available stock."
+msgstr ""
+"Waarschuwing: de minimale hoeveelheid overschrijdt de beschikbare voorraad."
+
+#: includes/class-wizevolve-min-max-quantities.php:146
+msgid "Warning: The minimum quantity for \"%s\" exceeds the available stock."
+msgstr ""
+"Waarschuwing: Het minimumaantal voor \"%s\" overschrijdt de beschikbare "
+"voorraad."
+
+#: includes/class-wizevolve-min-max-quantities.php:31
+msgid ""
+"Welcome to the settings page for the WooCommerce Min Max Quantity Extension. "
+"This plugin allows you to establish global minimum and maximum order "
+"quantities for your WooCommerce store products. For product-specific rules, "
+"visit the individual product pages. Use the settings below to adjust global "
+"quantities and manage any default messages shown to customers."
+msgstr ""
+"Welkom op de instellingenpagina voor de WooCommerce Min Max Hoeveelheden "
+"Extension. Met deze plug-in kunt u globale minimale en maximale "
+"bestelhoeveelheden voor uw WooCommerce-winkelproducten vaststellen. Ga voor "
+"productspecifieke regels naar de afzonderlijke productpagina's. Gebruik de "
+"onderstaande instellingen om globale hoeveelheden aan te passen en "
+"standaardberichten te beheren die aan klanten worden getoond."
+
+#: includes/util/class-wizevolve-options.php:96
+msgid ""
+"Welcome to the WizEvolve Dashboard. Here, you can see all your activated "
+"WizEvolve plugins. To configure a plugin, use the navigation to go to its "
+"respective settings page. This dashboard provides an overview and quick "
+"access to each plugin's individual settings. Use it to manage your plugins "
+"effectively."
+msgstr ""
+"Welkom bij het WizEvolve-dashboard. Hier kunt u al uw geactiveerde WizEvolve-"
+"plug-ins zien. Om een plug-in te configureren, gebruikt u de navigatie om "
+"naar de betreffende instellingenpagina te gaan. Dit dashboard biedt een "
+"overzicht en snelle toegang tot de individuele instellingen van elke plug-in."
+" Gebruik het om uw plug-ins effectief te beheren."
+
+#. Author of the plugin
+#: includes/util/class-wizevolve-options.php:72
+#: includes/util/class-wizevolve-options.php:73
+#: includes/util/class-wizevolve-options.php:95
+msgid "WizEvolve"
+msgstr "WizEvolve"
+
+#. Plugin Name of the plugin
+#| msgid "WizEvolve Min Max Quantities Pro"
+msgid "WizEvolve Min Max Quantities"
+msgstr "WizEvolve Min Max Quantities"
+
+#: includes/class-wizevolve-min-max-quantities.php:301
+msgid "You can add a maximum of %s products to your cart."
+msgstr "U kunt maximaal %s producten aan uw winkelwagen toevoegen."
+
+#: includes/class-wizevolve-min-max-quantities.php:196
+msgid ""
+"You can have up to %s items in your cart to proceed to checkout. Current "
+"items in the cart: %s."
+msgstr ""
+"U kunt maximaal %s artikelen in uw winkelwagen hebben om door te gaan met "
+"afrekenen. Huidige items in de winkelwagen: %s."
+
+#: includes/class-wizevolve-min-max-quantities.php:296
+msgid "You must add a minimum of %s products to your cart."
+msgstr "U moet minimaal %s producten aan uw winkelwagentje toevoegen."
+
+#: includes/class-wizevolve-min-max-quantities.php:192
+msgid ""
+"You must have at least %s items in your cart to proceed to checkout. Current "
+"items in the cart: %s."
+msgstr ""
+"U moet ten minste %s items in uw winkelwagen hebben om door te gaan met "
+"afrekenen. Huidige items in de winkelwagen: %s."
